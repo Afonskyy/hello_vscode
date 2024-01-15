@@ -1,0 +1,21 @@
+h1 {
+  color: green;
+}
+
+header {
+  background-color: #fff;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
+.block {
+
+  &__item {
+  }
+}
+

@@ -3,7 +3,11 @@ header {
 }
 
 h1 {
-  color: rgb(79, 15, 199);
+  color: red;
+}
+
+h2{
+  color: black;
 }
 
 body {
